@@ -4,6 +4,8 @@
 
 *Perfect syntaxys and extraordinary codes
 chat bot system in nodejs*
+```var a = "asdfhg";
+alert(a)```
 
 
 
